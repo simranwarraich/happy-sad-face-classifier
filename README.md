@@ -34,8 +34,8 @@ The project consists of the following files:
 
 1. [**image-classification-using-tensorflow.ipynb:**](https://github.com/simranwarraich/happy-sad-face-classifier/blob/main/image-classification-using-tensorflow.ipynb) Contains the main script for data processing, model building, training, and evaluation.
 2. **README.md:** This file (you are reading it now!) provides an overview of the project.
-3. **data:** This folder contains the image data for happy and sad people
-4. **models:** The trained model is saved as happysadimageclassifier.h5 in the models directory within the project.
+3. **Dataset:** The dataset used for this project is available at [Kaggle Dataset](https://www.kaggle.com/datasets/simrankaur21/happy-sad-image-data)
+
 
 ## Model Performance
 The performance of the model is evaluated using metrics like accuracy, precision, and recall. You can find these metrics reported in the script's output.
